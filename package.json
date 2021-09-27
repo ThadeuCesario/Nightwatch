@@ -1,0 +1,25 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "<strong>Nightwatch</strong> <div> Nightwatch is a Javascript based test framework, and it runs on top on no James and Selenium. So you can write test that run against any browser that you have webdriver for. </div> <div> Nightwatch is free and open source. It can also be run from the command line so you can use it in your company's continuous integration and continuous delivery systems. </div>",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chromedriver": "^93.0.1",
+    "nightwatch": "^1.7.11"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ThadeuCesario/Nightwatch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThadeuCesario/Nightwatch/issues"
+  },
+  "homepage": "https://github.com/ThadeuCesario/Nightwatch#readme"
+}
